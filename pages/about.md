@@ -10,3 +10,5 @@ layout: single
 The Library capstone is an Application written in ASP.NET Core 2 with Vue.js as a front end.
 
 This is where we put notes regarding the project
+
+not this page. It better not be
