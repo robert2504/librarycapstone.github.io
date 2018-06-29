@@ -1,4 +1,4 @@
-theme: remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 name: Robert Hernandez
 description: Web Developer from somewhere
 
