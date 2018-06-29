@@ -1,8 +1,8 @@
 ---
 title: STC Library Capstone Site
 description: Welcome to the About Page
-permalink: /
-layout: splash
+permalink: /about
+layout: single
 excerpt: "South Texas Library"
 header:
   overlay_image: "/assets/images/header.jpeg"
