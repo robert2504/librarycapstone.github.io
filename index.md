@@ -3,7 +3,7 @@ title: STC Library Capstone Site
 description: Welcome to the library home page
 permalink: /
 layout: splash
-except: "South Texas Library"
+excerpt: "South Texas Library"
 header:
   overlay_image: "/assets/images/header.jpeg"
   caption: "South Texas Library"
