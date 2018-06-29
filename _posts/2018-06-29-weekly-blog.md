@@ -1,7 +1,7 @@
 ---
 title: Weekly Log for June 29, 2018
 layout: single
-permalink: /2018-06-29-weekly-blog/
+permalink: /weekly-blog-06-29/
 publish: true
   ---
 
