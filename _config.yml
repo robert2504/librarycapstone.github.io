@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: remote_theme: "mmistakes/minimal-mistakes"
 name: Robert Hernandez
 description: Web Developer from somewhere
 
