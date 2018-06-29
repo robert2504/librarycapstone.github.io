@@ -2,9 +2,8 @@
 title: home
 description: Welcome to the library home page
 permalink: /
+layout: splash
 ---
-# Welcome to the Library Capstone Page
-
 This is the documentation page for the capstone project. It contains information about the application.
 
 ### Prerequisites:
