@@ -1,5 +1,5 @@
 ---
-title: STC Library Capstone Site
+title: About
 description: Welcome to the About Page
 permalink: /about/
 layout: single
