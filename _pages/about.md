@@ -2,7 +2,11 @@
 title: About
 description: Welcome to the About Page
 permalink: /about/
-layout: single
+layout: splash
+excerpt: "South Texas Library"
+header:
+  overlay_image: "/assets/images/header.jpeg"
+  caption: "South Texas Library"
 ---
 
 # About the Library Capstone
