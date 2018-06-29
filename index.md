@@ -1,5 +1,5 @@
 ---
-title: home
+title: STC Library Capstone Site
 description: Welcome to the library home page
 permalink: /
 layout: splash
