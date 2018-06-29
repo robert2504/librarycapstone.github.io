@@ -5,7 +5,6 @@ permalink: /
 layout: splash
 except: "South Texas Library"
 header:
-  overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.jpeg"
   caption: "South Texas Library"
 ---
