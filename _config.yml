@@ -5,3 +5,5 @@ title_separator: "-"
 name: Robert Hernandez
 description: Web Developer from somewhere doing his capstone
 
+inlcude: "_pages"
+
