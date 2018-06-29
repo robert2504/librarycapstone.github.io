@@ -9,6 +9,7 @@ header:
   caption: "South Texas Library"
 ---
 This is the documentation page for the capstone project. It contains information about the application.
+Something is not working with my documentation navigation. :-(
 
 ### Prerequisites:
 
