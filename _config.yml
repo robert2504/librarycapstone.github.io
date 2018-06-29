@@ -2,8 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt"
 title: "LCP"
 title_separator: "-"
-name: Robert Hernandez
-description: Web Developer from somewhere doing his capstone
+name: "Robert Hernandez"
+description: "Web Developer from somewhere doing his capstone"
 
 inlcude: ["_pages"]
 
