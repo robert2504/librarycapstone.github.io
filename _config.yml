@@ -5,3 +5,6 @@ title_separator: "-"
 
 inlcude: ["_pages"]
 
+paginate: 5 # amount of posts to show
+paginate_path: /blog/page:num/ 
+

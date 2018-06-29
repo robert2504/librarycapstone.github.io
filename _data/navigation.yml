@@ -1,6 +1,7 @@
 main:
   - title: "Home"
     url: /
-
   - title: "Quick Start Guide"
     url: /about/
+  - title: "Blog"
+    url: /blog/
