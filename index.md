@@ -7,6 +7,7 @@ except: "South Texas Library"
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/header.jpg"
+  caption: "South Texas Library"
 ---
 This is the documentation page for the capstone project. It contains information about the application.
 
