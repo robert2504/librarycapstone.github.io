@@ -1,4 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
+title: "Library Capstone"
+title_separator: "-"
 name: Robert Hernandez
-description: Web Developer from somewhere
+description: Web Developer from somewhere doing his capstone
 
