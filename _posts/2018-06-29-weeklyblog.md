@@ -1,6 +1,6 @@
 ---
-title: Weekly Log for June 29, 2018
-layout: single
+title: "Weekly Log for June 29, 2018"
+layout: post
 permalink: /weekly-blog-06-29/
 publish: true
   ---
