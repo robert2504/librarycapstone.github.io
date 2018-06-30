@@ -5,7 +5,7 @@ permalink: /weekly-blog-06-29/
 xcerpt: "South Texas College Library"
 header:
   overlay_image: "/assets/images/header.jpeg"
-  caption: "South Texas College Library"
+  caption: South Texas College Library
 publish: true
 read_time: true
 share: true
