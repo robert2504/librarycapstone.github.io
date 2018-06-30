@@ -1,6 +1,6 @@
 ---
 title: "Weekly Log for June 29, 2018"
-layout: splash
+layout: single
 permalink: /weekly-blog-06-29/
 xcerpt: "South Texas College Library"
 header:
