@@ -3,10 +3,10 @@ title: STC Library Capstone Site
 description: Welcome to the library home page
 permalink: /
 layout: splash
-excerpt: "South Texas Library"
+excerpt: "South Texas College Library"
 header:
   overlay_image: "/assets/images/header.jpeg"
-  caption: "South Texas Library"
+  caption: "South Texas College Library"
 ---
 This is the documentation page for the capstone project. It contains information about the application.
 Something is not working with my documentation navigation. :-(
